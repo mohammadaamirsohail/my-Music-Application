@@ -94,7 +94,7 @@ export default function App() {
           <span className="logo-icon">◈</span>
           <span className="logo-word">Harmony</span>
         </div>
-        <p className="tagline">full songs · any mood · free forever</p>
+      <p className="tagline">Hey Senorita/Gentleman</p>
       </header>
 
       <main className="app-main">
@@ -130,8 +130,8 @@ export default function App() {
       </main>
 
       <footer className="app-footer">
-        Powered by YouTube · Full songs · No limits
-      </footer>
+  Powered by YouTube · Full songs · No limits · Built by Aamir
+</footer>
     </div>
   );
 }
